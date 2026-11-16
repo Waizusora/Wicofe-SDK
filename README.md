@@ -25,3 +25,7 @@ Initial repository baseline; no complete SDK release is available.
 ## License
 
 Original project code targets MPL-2.0. Bundled toolchains, headers, and third-party components require license and provenance records.
+
+## Documentation
+
+See [docs/INDEX.md](docs/INDEX.md) for this repository's technical documentation. The [central repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md) identifies canonical ownership and cross-repository boundaries.
