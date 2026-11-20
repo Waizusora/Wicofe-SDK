@@ -18,5 +18,5 @@ This directory documents the Wicofe software development kit for application and
 ## Compatibility
 Each SDK release must declare target architectures, toolchain versions, ABI compatibility range, sysroot revision, and runtime assumptions. No complete SDK release is implied by this documentation baseline.
 
-- [Central Wicofe documentation index](https://github.com/Waizusora/Wicofe-Docs/blob/main/INDEX.md)
-- [Repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
+- [Central Wicofe documentation index](https://github.com/Waizusora/Wicofe-Doc/blob/main/INDEX.md)
+- [Repository documentation map](https://github.com/Waizusora/Wicofe-Doc/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
